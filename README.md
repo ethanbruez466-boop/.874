@@ -48,10 +48,6 @@
             height: 100%;
             object-fit: contain;
             filter: brightness(1.1);
-        }
-        
-        .logo img[alt]::before {
-            content: '';
             display: block;
         }
 
@@ -133,7 +129,7 @@
     <div class="container">
         <div class="logo-section">
             <div class="logo">
-                <img src="https://i.imgur.com/1K2VOcg.png" alt="ALTÉA Logo">
+                <img src="https://i.imgur.com/O7pbwoF.png" alt="ALTÉA Logo">
             </div>
             <div>
                 <div class="server-name">ALTÉA</div>
